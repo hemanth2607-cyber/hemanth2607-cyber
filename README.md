@@ -1,9 +1,3 @@
-<p align="left">
-  <a href="https://github.com/hemanth2607-cyber">
-    <img src="https://raw.githubusercontent.com/hemanth2607-cyber/hemanth2607-cyber/main/assets/avatar.png" width="120" height="120" alt="Hemanth Gopalsamy" />
-  </a>
-</p>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/hemanth2607-cyber/hemanth2607-cyber/main/assets/header.svg" width="100%" alt="header" />
