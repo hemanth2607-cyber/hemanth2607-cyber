@@ -87,7 +87,7 @@
 
 `Python 3.11` `FastAPI` `SQLite WAL` `Docker`
 <br/>
-[📂 GitHub Code](https://github.com/hemanth2607-cyber/DogFoodHack)
+[🌐 Live Demo](https://dog-food-hack.vercel.app/) · [📂 GitHub Code](https://github.com/hemanth2607-cyber/DogFoodHack)
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +115,7 @@
 
 `Python` `Web` `Roadmap Engine`
 <br/>
-[📂 GitHub Code](https://github.com/hemanth2607-cyber/topic-learning-guide)
+[🌐 Live Demo](https://topic-learning-guide.vercel.app/) · [📂 GitHub Code](https://github.com/hemanth2607-cyber/topic-learning-guide)
 
 </td>
 <td width="50%" valign="top">
@@ -128,7 +128,7 @@
 
 `JavaScript` `React` `Analytics`
 <br/>
-[📂 GitHub Code](https://github.com/hemanth2607-cyber/log_lens)
+[🌐 Live App](https://log-lens-phi.vercel.app/) · [📂 GitHub Code](https://github.com/hemanth2607-cyber/log_lens)
 
 </td>
 </tr>
