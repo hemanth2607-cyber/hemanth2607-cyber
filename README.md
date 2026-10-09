@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hemanth2607-cyber/hemanth2607-cyber/main/assets/header.svg" width="100%" alt="G Hemanth - Header" />
+<img src="https://raw.githubusercontent.com/hemanth2607-cyber/hemanth2607-cyber/main/assets/header.svg" width="100%" alt="header" />
 
 <br/><br/>
 
-<a href="https://github.com/hemanth2607-cyber"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=G+Hemanth+%E2%9A%A1;High-Class+Vibecoder+%26+Full-Stack+Architect+%F0%9F%9A%80;Architecting+SuperFlow+%26+Next-Gen+Platforms;Founder+of+Aerolette+%E2%9C%A8;Open+for+Paid+Internships+%26+Remote+Roles+%F0%9F%A4%9D" alt="typing" /></a>
+<a href="https://github.com/hemanth2607-cyber"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=High-Class+Vibecoder+%26+Full-Stack+Architect+%E2%9A%A1;Architecting+SuperFlow+%26+Next-Gen+Platforms+%F0%9F%9A%80;Founder+of+Aerolette+%E2%9C%A8;Open+for+Paid+Internships+%26+Remote+Roles+%F0%9F%A4%9D" alt="typing" /></a>
 
 <br/>
 
@@ -21,7 +21,7 @@
 <br/>
 
 ## ⚡ The OG Vibecoder — Architecture Meets High Velocity
-> *"Hey, I'm **G Hemanth**. Most people prompt an AI and hope the code works. As an **OG High-Class Vibecoder**, I don't use AI as a crutch—I command it as a high-velocity execution multiplier. Backed by solid CS fundamentals in C, Java, Python, and SQL, I design the system architecture, enforce cryptographic proofs, guarantee offline-first performance, and ship production-grade software at 10x speed with zero architectural compromises."*
+> *"Most people prompt an AI and hope the code works. As an **OG High-Class Vibecoder**, I don't use AI as a crutch—I command it as a high-velocity execution multiplier. Backed by solid CS fundamentals in C, Java, Python, and SQL, I design the system architecture, enforce cryptographic proofs, guarantee offline-first performance, and ship production-grade software at 10x speed with zero architectural compromises."*
 
 <details open>
 <summary><b>🧠 What I'm About & What I'm Building</b></summary>
@@ -30,7 +30,7 @@
 - 🔭 **Building [SuperFlow](https://github.com/hemanth2607-cyber)** — High-technical frontend orchestration platform and multi-purpose workflow engine packed with SEO tooling, rapid scaffolding for apps/websites, and developer utilities.
 - 🌱 **Learning**: Big Data Computing & Spring Boot *(scaling distributed backends and enterprise architectural patterns)*.
 - 🎯 **Targeting**: **Paid Internships**, **Part-Time Remote Roles**, and **Freelance Contracts** across software, full-stack web, and application engineering.
-- 📍 **Location**: Coimbatore & Karur, Tamil Nadu, India 🇮🇳 · Open to remote opportunities worldwide.
+- 📍 **Location**: Tamil Nadu, India 🇮🇳 · Open to remote opportunities worldwide.
 - ⚡ **Fun Fact**: While most students my age are just figuring out college life, I'm already steering tech, branding, and operations across multiple verticals as the founder of **Aerolette**.
 
 </details>
@@ -39,7 +39,7 @@
 <summary><b>🎓 Education & Achievements</b></summary>
 <br/>
 
-- 🎓 **B.E. in Computer Science & Engineering (AI & ML)** — *V.S.B. Engineering College, Karur* (2025 — 2029 · Currently Pursuing)
+- 🎓 **B.E. in Computer Science & Engineering (AI & ML)** — *V.S.B. Engineering College, Karur* (CGPA: **7.2** / 10 till 2nd Sem)
 - 🏫 **Higher Secondary (HSC)** — *National Model Senior Secondary School, Coimbatore* (**66%**)
 - 🏫 **Secondary School (SSLC)** — *Sri Ramakrishna Central School, Coimbatore* (**69.8%**)
 - 🏆 **Best First Timer Award** — *YuvaBharathi Model United Nations (YBMUN)* (Represented Mexican Delegation)
@@ -163,7 +163,6 @@
 <a href="https://www.linkedin.com/in/hemanth-gopalsamy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hemanthg2607@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="assets/G_Hemanth_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download%20PDF-00d9ff?style=for-the-badge&logo=readme&logoColor=0d1117" /></a>
-<a href="https://hemanth2607-cyber.github.io/ghemanth-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-5cf2c0?style=for-the-badge&logo=googlechrome&logoColor=030f0c" /></a>
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:a855f7,100:ff4ecd&height=120&section=footer" width="100%" />
