@@ -12,7 +12,7 @@
 <g transform="translate(450 270)">
 <circle r="48" fill="url(#core)" opacity="0.25"><animate attributeName="r" values="42;56;42" dur="3s" repeatCount="indefinite"/></circle>
 <circle r="34" fill="url(#core)" filter="url(#sg)"/>
-<text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="800" font-size="12" fill="#fff">HEMANTH</text>
+<text y="4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="800" font-size="11" fill="#fff">G HEMANTH</text>
 <circle r="100" fill="none" stroke="#58a6ff" stroke-opacity="0.2" stroke-dasharray="4 8"/>
 <g><animateTransform attributeName="transform" type="rotate" from="0.0" to="360.0" dur="32s" repeatCount="indefinite"/>
 <g transform="translate(100 0)">
